@@ -41,5 +41,11 @@ Languages: Python, Java, C++, JavaScript
 Frontend: React.js, HTML5, CSS3, Tailwind  
 Backend: Node.js, Express.js  
 Database: MongoDB, MySQL  
-AI/ML: Scikit-Learn, Pandas, NumPy, Matplotlib  
-Tools: Git, Docker, VS Code, Linux  
+AI/ML: Scikit-Learn, Pandas, NumPy, Matplotlib,seaborn 
+Tools: Git,  VS Code, Linux  
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitkr756208-hash&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr756208-hash&theme=tokyonight" /> </p>
+
+📈 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr756208-hash&layout=compact&theme=tokyonight"/> </p>
