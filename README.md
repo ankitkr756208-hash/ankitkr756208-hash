@@ -37,7 +37,6 @@
 ✔ 1100+ CodeChef Problems  
 ✔ 4★ HackerRank  
 ✔ Building Real World AI Systems  
-✔ FAANG Focused  
 
 ---
 
@@ -109,7 +108,7 @@
 class Developer:
 
     def __init__(self):
-        self.goal = "FAANG"
+        self.goal = "AI_DEVELOPER"
 
     def life(self):
         while True:
