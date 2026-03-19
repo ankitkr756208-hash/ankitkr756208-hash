@@ -1,51 +1,103 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Competitive Programmer</h3>
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F72D&size=28&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;DSA+Problem+Solver;AI+Enthusiast;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F72D&size=28&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Full+Stack+Developer;DSA+Problem+Solver;AI+Enthusiast;Open+Source+Contributor"/>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ---
 
-### 🧑‍💻 About Me
+## 🌐 Connect With Me
 
-- 🎓 B.Tech CSE Student (AI Specialization)
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 MERN Stack Full Stack Developer
-- 🧠 Solved **200+ Leetcode Problems**
-- ⭐ **4★ HackerRank**
-- 🏆 Solved **1100+ CodeChef Problems**
-- 🚀 Building Real World AI Projects
-- 🔥 Focused on FAANG Level Preparation
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ankit-kumar-ba1886375" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ankit-kumar-ba1886375"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:ankitkr756208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://leetcode.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48"/></a>
+<a href="https://www.codechef.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="48"/></a>
+<a href="https://www.hackerrank.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="48"/></a>
 </p>
 
-📧 **Email:** ankitkr756208@gmail.com  
+---
+
+## 🧠 About Me
+
+✔ AI / ML Enthusiast  
+✔ MERN Stack Developer  
+✔ 200+ Leetcode Problems  
+✔ 1100+ CodeChef Problems  
+✔ 4★ HackerRank  
+✔ Building Real World AI Systems  
+✔ FAANG Focused  
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-```yaml
-Languages: Python, Java, C++, JavaScript  
-Frontend: React.js, HTML5, CSS3, Tailwind  
-Backend: Node.js, Express.js  
-Database: MongoDB, MySQL  
-AI/ML: Scikit-Learn, Pandas, NumPy, Matplotlib,seaborn 
-Tools: Git,  VS Code, Linux  
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js"/>
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitkr756208-hash&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr756208-hash&theme=tokyonight" /> </p>
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
 
-📈 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr756208-hash&layout=compact&theme=tokyonight"/> </p>
+### ⚙ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Numpy-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-purple?style=for-the-badge"/>
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkr756208-hash&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr756208-hash&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr756208-hash&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ankitkr756208-hash/snake/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⚡ Developer Mindset
+
+```cpp
+while(success != true){
+    try_again();
+    learn();
+    code();
+}
