@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Competitive Programmer</h3>
 
-<!--
-**ankitkr756208-hash/ankitkr756208-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student
+- 🤖 Passionate about Machine Learning & AI
+- 💻 MERN Stack Developer
+- 🧠 Solved 200+ Leetcode Problems
+- ⭐ 4★ HackerRank
+- 🏆 1100+ CodeChef Problems
+- 🚀 Building Real World AI Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+```yaml
+Languages: Python, Java, C++, JavaScript  
+Frontend: React, HTML, CSS, Tailwind  
+Backend: Node.js, Express  
+Database: MongoDB, MySQL  
+AI/ML: Scikit Learn, Pandas, Numpy  
+Tools: Git, Docker, VS Code  
