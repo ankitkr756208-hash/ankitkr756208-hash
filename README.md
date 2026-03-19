@@ -12,9 +12,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ankit-kumar-ba1886375"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:ankitkr756208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://leetcode.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48"/></a>
-<a href="https://www.codechef.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="48"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="48"/></a>
+<a href="https://leetcode.com/u/Ankit773930/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48"/></a>
+<a href="https://www.codechef.com/users/ankit7739"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="48"/></a>
+<a href="https://www.hackerrank.com/profile/ankitkr756208"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="48"/></a>
 </p>
 
 ---
@@ -96,8 +96,3 @@
 ## ⚡ Developer Mindset
 
 ```cpp
-while(success != true){
-    try_again();
-    learn();
-    code();
-}
