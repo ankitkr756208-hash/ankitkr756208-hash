@@ -105,4 +105,24 @@
 
 ## ⚡ Developer Mindset
 
-```cpp
+```python
+class Developer:
+
+    def __init__(self):
+        self.goal = "FAANG"
+
+    def life(self):
+        while True:
+            self.code()
+            self.learn()
+            self.build()
+            self.repeat()
+
+    def code(self):
+        print("Solving Problems...")
+
+    def learn(self):
+        print("Learning New Tech...")
+
+    def build(self):
+        print("Building Projects...")
