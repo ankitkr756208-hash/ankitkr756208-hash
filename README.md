@@ -125,3 +125,9 @@ class Developer:
 
     def build(self):
         print("Building Projects...")
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ankitkr756208-hash/snake/blob/output/github-contribution-grid-snake.svg" />
+</p>
