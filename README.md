@@ -33,8 +33,8 @@
 
 ✔ AI / ML Enthusiast  
 ✔ MERN Stack Developer  
-✔ 200+ Leetcode Problems  
-✔ 1100+ CodeChef Problems  
+✔ 300+ Leetcode Problems  
+✔ 1200+ CodeChef Problems  
 ✔ 4★ HackerRank  
 ✔ Building Real World AI Systems  
 
