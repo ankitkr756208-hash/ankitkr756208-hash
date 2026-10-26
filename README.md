@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Competitive Programmer</h3>
+<h3 align="center">🚀 ML Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F72D&size=28&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Full+Stack+Developer;DSA+Problem+Solver;AI+Enthusiast;Open+Source+Contributor"/>
